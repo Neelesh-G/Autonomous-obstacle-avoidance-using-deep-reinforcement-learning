@@ -15,3 +15,6 @@ Obstacle avoidance using Deep reinforcement learning
   *In order to start the training connect to raspberry pi and run environment.py.A lastbrain.pth file will be created to save the weights and the model whenever training is     stopped which would be loaded again from the same checkpoint when the training is resumed.
   
   [**Click link to view the video for the trained bot**](https://photos.google.com/share/AF1QipMxLZVE02uz_t9IwG3EcjsDQ8wOdn3wYDOjhKieswX3YYoc6S8a_1FijJo_Ep6mOA?key=bEtvbEZfNWh1VkZoOWtqeDhtRjVmaFVRSXgwSW9R)
+
+
+  *An already trained model is provided in the last_brain.pth file.In order to start fresh training, delete it.
